@@ -556,7 +556,6 @@
         position: relative;
         z-index: 3;
         cursor: pointer;
-        position: fixed;
         right: 0;
     }
 
